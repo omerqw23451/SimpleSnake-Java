@@ -14,3 +14,4 @@ Only need is to download the repo, unzip the directory of the source code and  o
 If you go beyond the boundaries of the board, the game is over
 
 
+![Brainstorming](https://github.com/omerqw23451/SimpleSnake-Java/assets/74785129/4bd54812-b847-47dc-8656-f0bbec68417f)
